@@ -7,7 +7,7 @@ Some m3u8 files require special headers as well as CORS. This project achieves b
 ## Installation
 1. Clone the repository.
 ```bash
-git clone https://github.com/Eltik/M3U8-Proxy.git
+git clone https://github.com/jedgarf/m3u8-proxy.git
 ```
 2. Run `npm i`.
 3. Run `npm run build`.
@@ -23,7 +23,7 @@ HOST="localhost"
 PORT="3030"
 
 # Public URL to proxy ts files from
-PUBLIC_URL="https://m3u8.eltik.net"
+PUBLIC_URL="https://jef-m3u8-proxy.vercel.app"
 ```
 
 ## Usage
