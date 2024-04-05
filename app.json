@@ -1,8 +1,8 @@
 {
     "name": "M3u8-Proxy",
     "description": "Proxy m3u8 files through pure JavaScript.",
-    "website": "https://m3u8.eltik.net",
-    "repository": "https://github.com/Eltik/M3u8-Proxy",
+    "website": "https://jef-m3u8-proxy.vercel.app",
+    "repository": "https://github.com/jedgarf/m3u8-proxy",
     "keywords": ["node", "express", "anime", "movies", "api", "m3u8", "streaming", "proxy"],
     "env": {
         "PORT": {

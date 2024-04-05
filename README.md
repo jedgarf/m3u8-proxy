@@ -23,7 +23,7 @@ HOST="localhost"
 PORT="3030"
 
 # Public URL to proxy ts files from
-PUBLIC_URL="https://jef-m3u8-proxy.vercel.app"
+PUBLIC_URL="https://m3u8-proxy-test.vercel.app"
 ```
 
 ## Usage

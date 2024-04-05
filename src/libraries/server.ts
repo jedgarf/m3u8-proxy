@@ -431,7 +431,7 @@ function createServer(options) {
     return server;
 }
 
-const host = process.env.HOST || "0.0.0.0";
+const host = process.env.HOST || "192.168.1.40";
 const port = process.env.PORT || 8080;
 const web_server_url = process.env.PUBLIC_URL || `http://${host}:${port}`;
 
